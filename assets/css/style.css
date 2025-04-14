@@ -63,13 +63,13 @@ li{
     justify-content: left;
 }
 
-.presentacion > .trabajos > h3{
+.presentacion > .trabajos > .d-flex h3{
     text-decoration: underline;
     margin-top: 0px;
     padding-top: 10px;
     padding-left: 10px;
     font-style: italic;
-}
+}   
 
 .presentacion > .trabajos > ul{
     padding-left: 25px;
@@ -94,6 +94,34 @@ p{
     width: 50rem;   
 }
 
+.flex-container-portafolio{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    background-color: aqua;
+}
+
+.texto-portafolio img{
+    height: 300px;
+    width: 200px;
+    border: black solid px;
+    object-fit: cover;
+    border: rgb(197, 197, 197) solid 0px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.25);
+}
+
+
+.texto-portafolio p{
+    color: rgb(122, 122, 122);
+    margin-top: 0px;
+    align-content: flex-end;
+    text-align: center;
+}    
+
 footer{
     background-color: rgb(230, 229, 240);
     width: 100%;
@@ -104,7 +132,4 @@ footer{
 footer > p{
     margin: 0px;
 }
-
-
-
     
