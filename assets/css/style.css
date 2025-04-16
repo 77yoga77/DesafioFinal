@@ -61,12 +61,13 @@ li{
     display: flex;
     flex-direction: column;
     justify-content: left;
+    margin: 20px;
 }
 
 .presentacion > .trabajos > .d-flex h3{
     text-decoration: underline;
-    margin-top: 0px;
-    padding-top: 10px;
+    margin-top: 10px;
+    padding: 10px;
     padding-left: 10px;
     font-style: italic;
 }   
@@ -83,6 +84,8 @@ li{
 .presentacion > .trabajos > p{
     
     text-align: justify;
+    padding: 5em 0;
+    text-align: center;
 }
 
 p{
