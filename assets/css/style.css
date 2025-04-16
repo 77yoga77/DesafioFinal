@@ -103,12 +103,14 @@ p{
     justify-content: center;
     align-items: center;
     margin-top: 0px;
-    background-color: aqua;
+    background-color: rgb(48, 59, 59);
+    text-align: justify;
 }
 
 .texto-portafolio img{
     height: 300px;
     width: 200px;
+    text-align: justify;
     border: black solid px;
     object-fit: cover;
     border: rgb(197, 197, 197) solid 0px;
