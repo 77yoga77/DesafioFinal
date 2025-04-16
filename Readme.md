@@ -1,3 +1,12 @@
+Desafio Final Johanna Narvaez
+ Curriculum Vitae.
+
+ Programas Utilizados: 
+ HTML
+ CSS 
+ FLEXBOOK
+ Boostrap; https://getbootstrap.com/docs/5.3/getting-started/introduction/
+
 ## Forkear los proyectos de por lo menos 2 compañeros
 
 1. Forkeado a https://github.com/plunap
